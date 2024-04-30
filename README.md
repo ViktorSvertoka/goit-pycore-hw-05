@@ -273,3 +273,21 @@ Enter a command: all
 Jime: 0501234356
 Enter a command:
 ```
+
+### Результат виконаного ДЗ
+
+1.
+
+![Results](./assets/image-1.png)
+
+2.
+
+![Results](./assets/image-2.png)
+
+3.
+
+![Results](./assets/image-3.png)
+
+4.
+
+![Results](./assets/image-4.png)
